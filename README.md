@@ -1,0 +1,2 @@
+# Project-Compare-Baseball-Player-Statistics-using-Visualizations
+"Judge vs. Stanton: Power Hitters in MLB" Explore Statcast data to compare MLB giants Aaron Judge and Giancarlo Stanton. Both players dominated the league in home runs in 2017, hitting 59 and 52, respectively. This project visualizes their performances and highlights their unique strengths as two of baseball's most powerful hitters.
